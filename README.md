@@ -18,7 +18,8 @@
 - ⚡ Fun fact: I use rem & em instead px ;)  
   
 
-- ### ***<ins>🔗 Download my chrome extension [Price Grate](https://chrome.google.com/webstore/detail/pricegrat/kbgnblgibapejjjhdkdnhnahbnnapaef?hl=en-GB)</ins>***  
+- ### ***<ins>🔗 Download my chrome extension [Price Grate](https://chrome.google.com/webstore/detail/pricegrat/kbgnblgibapejjjhdkdnhnahbnnapaef?hl=en-GB)</ins>*** 
+- ### ***<ins>🔗 Visit my [Portfolio](https://ar-mohanty.github.io/anurag-portfolio/)</ins>*** 
   
 
 <br/>  
