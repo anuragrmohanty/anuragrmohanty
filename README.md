@@ -22,7 +22,10 @@
   
 
 <br/>  
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=anuragrmohanty&&style=flat-square" align="center" />
+</div> 
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -97,25 +100,5 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
+ 
   
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=anuragrmohanty&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
