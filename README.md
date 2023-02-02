@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I use rem & em instead px ;)  
   
 
-- ### ***<ins>🔗 Download my chrome extension [Price Grate](https://amazee01.netlify.app/)</ins>***  
+- ### ***<ins>🔗 Download my chrome extension [Price Grate](https://chrome.google.com/webstore/detail/pricegrat/kbgnblgibapejjjhdkdnhnahbnnapaef?hl=en-GB)</ins>***  
   
 
 <br/>  
